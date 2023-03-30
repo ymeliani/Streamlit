@@ -1,2 +1,2 @@
 pandas
-joblib
+joblib == 1.0.1
